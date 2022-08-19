@@ -10,30 +10,30 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: 'https://github.com/diego3g.png',
-      name: 'Diego Fernandes',
-      role: 'CTO @Rocketseat'
+      avatarUrl: 'https://github.com/ppsobralwb.png',
+      name: 'Pedro Paulo',
+      role: 'Web Developer'
     },
     content: [
       { type: 'paragraph', content: 'Fala galera 👋' },
       { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
       { type: 'link', content: 'jane.design/doctorcare' },
     ],
-    publishedAt: new Date('2022-05-03 20:00:00'),
+    publishedAt: new Date('2022-08-03 20:00:00'),
   },
   {
     id: 2,
     author: {
-      avatarUrl: 'https://github.com/maykbrito.png',
-      name: 'Mayk Brito',
-      role: 'Educator @Rocketseat'
+      avatarUrl: 'https://github.com/aadottori.png',
+      name: 'Antonio Dottori',
+      role: 'Backend Developer'
     },
     content: [
       { type: 'paragraph', content: 'Fala galera 👋' },
       { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
       { type: 'link', content: 'jane.design/doctorcare' },
     ],
-    publishedAt: new Date('2022-05-10 20:00:00'),
+    publishedAt: new Date('2022-08-19 20:00:00'),
   },
 ];
 
